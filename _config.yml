@@ -1,0 +1,6 @@
+title: OpenClaw / NOVA 個人用カレンダー連携
+description: 個人用Googleカレンダー連携の説明とプライバシーポリシー
+theme: jekyll-theme-primer
+lang: ja
+exclude:
+  - README.md
